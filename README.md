@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pollosense1
+- 👀 I’m interested in learning and getting better at programming
+- 🌱 I’m currently learning C#, Java, Python and C++
+- 💞️ I’m looking to collaborate on whatever i can
+- 📫 How to reach me pollosense@gmail.com
